@@ -83,6 +83,8 @@ The program address will default to this keypair (override with --program-id):
 
   Program Id: J47Nku8AWTGx75nQibU27r5TMWnbsq3Eqm34vUARmLsV
 
+  J47Nku8AWTGx75nQibU27r5TMWnbsq3Eqm34vUARmLsV
+
 
   npm run start
 
